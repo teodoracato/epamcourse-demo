@@ -8,4 +8,4 @@ ajmo idemoooo
 
 okej, dodajem novi red za revert
 
-
+ponovo dodajem nesto za conflict resolution
