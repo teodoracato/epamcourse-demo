@@ -9,3 +9,4 @@ ajmo idemoooo
 okej, dodajem novi red za revert
 
 
+dodajem jos jedan red za conflict resolution
