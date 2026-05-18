@@ -11,3 +11,5 @@ okej, dodajem novi red za revert
 ponovo dodajem nesto za conflict resolution
 
 dodajem jos jedan red za conflict resolution
+
+content to be saved
