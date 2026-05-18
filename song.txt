@@ -13,3 +13,8 @@ ponovo dodajem nesto za conflict resolution
 dodajem jos jedan red za conflict resolution
 
 content to be saved
+
+sad jos treba da dodam
+dva reda da bih mogla
+da pull odradim 
+i zavrsim prvi zadatak
